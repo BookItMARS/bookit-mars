@@ -1,4 +1,4 @@
-import trainTicket from './assets';
+import trainTicket from './assets/trainTicket.png';
 
 const App = () => {
 
