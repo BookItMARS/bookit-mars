@@ -1,3 +1,4 @@
+import BurnerComponent from './components/BurnerComponent';
 import trainTicket from './assets/trainTicket.png';
 
 const App = () => {
@@ -7,6 +8,7 @@ const App = () => {
       <h1>Welcome to BookIt - MARS</h1>
       <p>I'm a really cool Frontend project</p>
       <img src={trainTicket} alt="look, we imported an asset!" />
+      <BurnerComponent />
     </main>
   );
 };
