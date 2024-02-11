@@ -43,7 +43,7 @@ function SearchTicket() {
           <pre>{"From Station :"+passengerInfo.fromStation}</pre> 
           <pre>{"To Station :"+passengerInfo.toStation}</pre>
            <pre>{"Date of travel :"+passengerInfo.dateOfTravel}</pre>
-          x <pre>{"Train Number :"+passengerInfo.trainNo}</pre>
+           <pre>{"Train Number :"+passengerInfo.trainNo}</pre>
            <pre>{"Date of booking"+passengerInfo.dateOfBooking}</pre>
            <pre>{"Booking Status :"+passengerInfo.bookingStatus}</pre>
            <pre>{"Ticket Fare  :"+passengerInfo.ticketFare}</pre>
